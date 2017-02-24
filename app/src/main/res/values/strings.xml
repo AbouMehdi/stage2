@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stage1</string>
+    <string name="error_message">Failed to Fetch Data, Please Try again.</string>
+    <string name="error_connection">No Connection. Please Make sure your connection is working. </string>
+    <string name="image_url">http://image.tmdb.org/t/p/w185/</string>
+    <string name="debug">debugstage1</string>
+    <string name="score">8.5 / 10</string>
+    <string name="date">2017</string>
+    <string name="title">Inception</string>
+    <string name="synopsis">Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter in dreams people and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves</string>
+
+</resources>
